@@ -1,4 +1,4 @@
-# I'm Aarush, and I'm interested in a bunch of stuff:
+# Hi, I'm Aarush, and I'm interested in a bunch of stuff:
 
 ## Math: Euclidean geometry/ competitive calculus
 
