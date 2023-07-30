@@ -1,15 +1,15 @@
-### I'm Aarush, and I'm interested in a bunch of stuff:
+# I'm Aarush, and I'm interested in a bunch of stuff:
 
 ## Math
 
 ## Computer Science
 
-# Competitive Computer Science
+## Competitive Computer Science
 
-# Computer Vision Networks
+## Computer Vision Networks
 
-# LaTeX
+## LaTeX
 
-## Physics
+# Physics
 
-## Whatever else requires a problem to solve!
+# Whatever else requires a problem to solve!
