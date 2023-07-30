@@ -1,15 +1,9 @@
 # I'm Aarush, and I'm interested in a bunch of stuff:
 
-## Math
+## Math: Euclidean geometry, competitive calculus
 
-## Computer Science
+## Computer Science: competitive programming, computer vision, LaTeX
 
-## Competitive Computer Science
+## Physics: interesting mechanics problems, Hawking's many theories of black holes
 
-## Computer Vision Networks
-
-## LaTeX
-
-# Physics
-
-# Whatever else requires a problem to solve!
+## Whatever else requires a problem to solve!
