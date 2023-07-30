@@ -1,16 +1,15 @@
-### Hi there 👋
+### I'm Aarush, and I'm interested in a bunch of stuff:
 
-<!--
-**aSquaredRush/aSquaredRush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Math
 
-Here are some ideas to get you started:
+## Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Competitive Computer Science
+
+# Computer Vision Networks
+
+# LaTeX
+
+## Physics
+
+## Whatever else requires a problem to solve!
