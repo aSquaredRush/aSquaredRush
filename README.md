@@ -1,6 +1,6 @@
 # Hi, I'm Aarush, and I'm a highschooler interested in a bunch of stuff:
 
-## Math: Euclidean geometry/ competitive calculus
+## Math: Euclidean geometry/ competitive calculus/ knot theory
 
 ## Computer Science: Competitive programming/ computer vision/ LaTeX
 
