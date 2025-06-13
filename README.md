@@ -1,9 +1,9 @@
 # Hi, I'm Aarush, and I'm a college student interested in a bunch of stuff:
 
-## Math: Optimization Theory/ competitive calculus/ quantitative finance
+## <ins>Math:</ins> Optimization Theory/ competitive calculus/ quantitative finance
 
-## Computer Science: Competitive programming/ computer vision/ LaTeX
+## <ins>Computer Science:</ins> Competitive programming/ computer vision/ LaTeX
 
-## Physics: Interesting mechanics problems/ Hawking's many theories of black holes
+## <ins>Physics:</ins> Interesting mechanics problems/ Hawking's many theories of black holes
 
 ## Whatever else requires a problem to solve!
