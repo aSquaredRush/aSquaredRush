@@ -1,6 +1,6 @@
-# Hi, I'm Aarush, and I'm a college freshman interested in a bunch of stuff:
+# Hi, I'm Aarush, and I'm a college student interested in a bunch of stuff:
 
-## Math: Euclidean geometry/ competitive calculus/ quantitative finance
+## Math: Optimization Theory/ competitive calculus/ quantitative finance
 
 ## Computer Science: Competitive programming/ computer vision/ LaTeX
 
